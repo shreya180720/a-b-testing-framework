@@ -1,7 +1,7 @@
 # A/B Testing & Experimentation Framework
 ## One-Click Trade Execution - Trading Platform Feature Experiment
 
-> **Industry-grade simulated trading experimentation project**  
+> **Trading experimentation project**  
 > Built on top of an existing `brokerage_db` PostgreSQL 17 data warehouse schema.
 
 ---
@@ -51,7 +51,7 @@ A retail and HNI (High Net-worth Individual) brokerage platform serves clients a
 
 ### Generated Analysis Dataset
 
-`data/client_metrics.csv` — One row per client with all metrics joined:
+`data/client_metrics.csv` - One row per client with all metrics joined:
 
 | Column | Description |
 |---|---|
@@ -77,7 +77,7 @@ A retail and HNI (High Net-worth Individual) brokerage platform serves clients a
 | Alpha (α) | 0.05 | Industry standard |
 | Power (1–β) | 0.80 | Standard product experiment threshold |
 | Baseline Conversion | 35% | Historical platform average |
-| MDE | +3pp absolute | ~8.6% relative — business meaningful |
+| MDE | +3pp absolute | ~8.6% relative - business meaningful |
 
 **Hypotheses:**
 
