@@ -1,6 +1,9 @@
 # A/B Testing & Experimentation Framework
 ## One-Click Trade Execution - Trading Platform Feature Experiment
-
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Status](https://img.shields.io/badge/Project-Completed-success)]()
 > **Trading experimentation project**  
 > Built on top of an existing `brokerage_db` PostgreSQL 17 data warehouse schema.
 
